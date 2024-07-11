@@ -1,5 +1,5 @@
 # Project Delphi Aplikasi Penjualan
 
 >[!note]
-> Ahmad Syaifuddin - 2210010111 (Tugas UTS dan UAS)
+> Mellyta Anggreani - 2210010449 (UTS dan UAS)
  
